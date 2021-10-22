@@ -1,6 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     font-family: 'Poppins', sans-serif;
+    background-color: #F6F6F6;
     
+}
+header{
+    margin: 0;
+    padding: 0;
 }
 
 div{
@@ -20,7 +29,31 @@ h1{
 nav{
     display: flex;
     justify-content: space-evenly;
+    background-color: #212121;
+    margin: 0;
+    padding: 0;
+    height: 72px;
 }
 a{
-    margin: 5px;
+    
+    padding: 0;
+    color: #F6F6F6;
+    text-decoration: none;
+    margin-top: 20px;
+}
+h2{
+    color: #6D9886;
+}
+
+.text-yellow{
+    color: #D9CAB3;
+}
+
+address{
+    font-style: normal;
+    font-weight: bold;
+}
+#mail{
+    color: #212121;
+    font-weight: bold;
 }
