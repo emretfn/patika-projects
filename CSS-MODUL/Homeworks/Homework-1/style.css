@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+div{
+    display: flex;
+    justify-content: space-between
+}
+
+img{
+    margin-right: 30px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    margin: 5px;
+}
