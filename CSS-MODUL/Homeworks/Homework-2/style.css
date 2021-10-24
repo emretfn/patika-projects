@@ -1,0 +1,35 @@
+img{
+    display: block;
+    margin: 0px auto;
+}
+.search{
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+    background: rgb(245, 245, 245);
+}
+.bottom-box.middle-box{
+    width: 330.922;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: 0px auto;
+}
+.bottom-box{
+    width: 40%;
+    margin: 3px 1px;
+    background-color: rgb(126, 229, 218);
+    text-align: center;
+    padding: 1px;
+}
+.search > h4{
+    margin: 1px 0px;
+}
+p{
+    margin: 5px 0px;
+}
+.clear{
+    float: none;
+}
